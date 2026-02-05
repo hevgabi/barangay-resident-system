@@ -1,0 +1,7 @@
+2026-02-03 13:09:57|gabi|FAIL|Windows 11 - almen (User not found.)
+2026-02-03 13:11:37|gabi|SUCCESS|Windows 11 - almen
+2026-02-04 10:38:01|gabi|FAIL|Windows 11 - almen (Wrong password.)
+2026-02-04 10:41:05|gabi|SUCCESS|Windows 11 - almen
+2026-02-04 10:51:45|kwinie_klawi|SUCCESS|Windows 11 - almen
+2026-02-04 10:54:39|kwinie|SUCCESS|Windows 11 - almen
+2026-02-04 19:45:01|gabi|SUCCESS|Windows 11 - almen
